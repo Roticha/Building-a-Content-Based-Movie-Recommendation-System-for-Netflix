@@ -111,6 +111,11 @@ Here we will calculate cosine similarity between movies based on the TF-IDF feat
 
 ```
 
+from sklearn.metrics.pairwise import cosine_similarity
+
+# Compute the cosine similarity matrix
+cosine_sim = cosine_similarity(tfidf_matrix, tfidf_matrix)
+
 # Standardize movie titles in the dataset
 movie_data['title'] = movie_data['title'].str.lower().str.strip()
 

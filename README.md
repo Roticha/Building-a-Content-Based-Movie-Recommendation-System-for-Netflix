@@ -1,23 +1,5 @@
 # Building-a-Content-Based-Movie-Recommendation-System-for-Netflix
 
-Phase: 4
-Group: 13
-
-Group Members:
-- Sylvia Manono
-- Amos Kipngetich
-- Angela Maina
-- Charles Ndegwa
-- Sandra Koech
-- Gloria Tisnanga
-- Alex Miningwa
-
-Student Pace: Part time
-
-Scheduled Project Review Date/Time: October 14, 2024
-
-Instructor Name: Samuel G. Mwangi
-
 ## Summary
 ### Business and Data Understanding
 
